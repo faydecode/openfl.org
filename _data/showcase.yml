@@ -50,9 +50,7 @@
   developer: randomnine
   image: CardinalQuest2.jpg
   url: http://cardinalquest2.com/
-  flash: http://www.kongregate.com/games/randomnine/cardinal-quest-2
   ios: https://itunes.apple.com/app/id732353646
-  android: https://play.google.com/store/apps/details?id=com.kongregate.mobile.cardinalquest.google
   featured: true
 
 - title: "Flying Dodo: Wilbur's Fun Ride"
@@ -724,3 +722,10 @@
   image: GlitchLab.jpg
   url: http://armorgames.com/play/16042/glitch-lab
   flash: http://armorgames.com/play/16042/glitch-lab
+  
+- title: Memotion
+  developer: Sugema Productions
+  image: Memotion.jpg
+  url: http://www.sugemaproductions.com/memotion/
+  android: https://play.google.com/store/apps/details?id=com.sugemapro.memotion
+
